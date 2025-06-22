@@ -1,0 +1,3 @@
+C:/Users/omelk.R1Y/Source/Repos/V-Frame/out/build/x64-debug-windows/CMakeFiles/vFrame.dir
+C:/Users/omelk.R1Y/Source/Repos/V-Frame/out/build/x64-debug-windows/CMakeFiles/edit_cache.dir
+C:/Users/omelk.R1Y/Source/Repos/V-Frame/out/build/x64-debug-windows/CMakeFiles/rebuild_cache.dir
